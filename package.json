@@ -1,6 +1,6 @@
 {
   "name": "gulp-replace-pro",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a string and object replace plugin for gulp",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/F-happy/gulp-replace-pro/issues"
   },
-  "homepage": "https://github.com/F-happy/gulp-replace-pro#readme"
+  "homepage": "https://github.com/F-happy/gulp-replace-pro#readme",
+  "dependencies": {
+    "through2": "^2.0.1"
+  }
 }
