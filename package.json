@@ -4,7 +4,7 @@
   "description": "a string and object replace plugin for gulp",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test/test.js"
   },
   "repository": {
     "type": "git",
@@ -22,5 +22,8 @@
   "homepage": "https://github.com/F-happy/gulp-replace-pro#readme",
   "dependencies": {
     "through2": "^2.0.1"
+  },
+  "devDependencies": {
+    "gulp": "github:gulpjs/gulp#4.0"
   }
 }
