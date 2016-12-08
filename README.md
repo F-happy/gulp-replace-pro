@@ -2,6 +2,7 @@
 [![Build Status](https://travis-ci.org/F-happy/gulp-replace-pro.svg?branch=master)](https://travis-ci.org/F-happy/gulp-replace-pro)
 [![npm](https://img.shields.io/npm/v/gulp-replace-pro.svg?style=flat)](https://www.npmjs.com/package/gulp-replace-pro)
 [![npm](https://img.shields.io/npm/l/gulp-replace-pro.svg?style=flat)](https://www.npmjs.com/package/gulp-replace-pro)
+[![npm](https://img.shields.io/npm/dt/gulp-replace-pro.svg?style=flat-square)](https://www.npmjs.com/package/gulp-replace-pro)
 > 这是一个加强版的 gulp-replace 插件
 
 ### 安装：
